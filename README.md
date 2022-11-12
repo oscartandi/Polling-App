@@ -12,9 +12,9 @@ Let’s verify your Django project works. Change into the outer mysite directory
 ## Setting up in Local Machine
 
 #### Step-1 
-  Open a `terminal`, clone the `Polling-App` repository and go into the directory using the command `cd`.
+  Open a `terminal`, clone the `The_Poll_App` repository and go into the directory using the command `cd`.
   ```bash
-  https://github.com/oscartandi/Polling-App
+  https://github.com/oscartandi/The_Poll_App/
 
   ```
   #### Step-2
